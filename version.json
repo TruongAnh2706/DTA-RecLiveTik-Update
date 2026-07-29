@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "build": 101,
+  "release_date": "27/07/2026",
+  "changelog": "Cập nhật v1.0.1: Bảo mật 100% mã nguồn (ẩn link GitHub), tối ưu giao diện & bổ sung tính năng Auto Update OTA.",
+  "download_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro.exe",
+  "update_url": "https://github.com/TruongAnh2706/DTA-RecLiveTik-Update",
+  "source_repo": "https://github.com/TruongAnh2706/DTA-RecLiveTik-Source-Code"
+}
