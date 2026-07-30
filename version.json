@@ -1,9 +1,8 @@
 {
-  "version": "1.0.1",
-  "build": 101,
-  "release_date": "27/07/2026",
-  "changelog": "Cập nhật v1.0.1: Bảo mật 100% mã nguồn (ẩn link GitHub), tối ưu giao diện & bổ sung tính năng Auto Update OTA.",
+  "version": "1.0.2",
+  "build": 102,
+  "release_date": "30/07/2026",
   "download_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro.exe",
-  "update_url": "https://github.com/TruongAnh2706/DTA-RecLiveTik-Update",
-  "source_repo": "https://github.com/TruongAnh2706/DTA-RecLiveTik-Source-Code"
+  "setup_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro_Setup.zip",
+  "changelog": "Bản v1.0.2: Tối ưu giao diện Kính mờ Dark Deep Black, bổ sung Version Badge v1.0.2, hỗ trợ cài đặt chính thức vào Windows Control Panel và tự động tạo Lối tắt Desktop."
 }
