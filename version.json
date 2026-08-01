@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "build": 105,
-  "changelog": "Bản phát hành v1.0.5 - Sửa triệt để lỗi PyInstaller temp MEIPASS khi Auto-Restart",
+  "version": "1.0.6",
+  "build": 106,
+  "changelog": "Bản phát hành v1.0.6 - Khởi động lại tự động qua dta_restart.bat độc lập 100%",
   "download_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro.exe"
 }
