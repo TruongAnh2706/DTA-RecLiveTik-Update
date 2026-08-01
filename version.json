@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "build": 103,
-  "changelog": "Tối ưu chiều cao màn hình 1080p full thoáng đẹp + Tự động cập nhật OTA v1.0.3",
+  "version": "1.0.4",
+  "build": 104,
+  "changelog": "Bản phát hành chính thức v1.0.4 - Tự động OTA Auto-Restart siêu tốc",
   "download_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro.exe"
 }
