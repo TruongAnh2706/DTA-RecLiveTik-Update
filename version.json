@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "build": 107,
-  "changelog": "Bản phát hành v1.0.7 - Sửa triệt để 100% lỗi môi trường PyInstaller bằng PowerShell Start-Process",
+  "version": "1.0.8",
+  "build": 108,
+  "changelog": "Bản phát hành v1.0.8 - Batch Script tương thích 100% đường dẫn khoảng trắng và ngoặc tròn",
   "download_url": "https://raw.githubusercontent.com/TruongAnh2706/DTA-RecLiveTik-Update/main/DTA_RecLiveTik_Pro.exe"
 }
